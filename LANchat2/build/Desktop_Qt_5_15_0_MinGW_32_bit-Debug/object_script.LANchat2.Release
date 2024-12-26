@@ -1,0 +1,16 @@
+release/chatwindow.o
+release/childepage.o
+release/cilentcoremain.o
+release/infowindow.o
+release/loginwindow.o
+release/main.o
+release/res.o
+release/userwindow.o
+release/widget.o
+release/qrc_images.o
+release/moc_chatwindow.o
+release/moc_childepage.o
+release/moc_infowindow.o
+release/moc_loginwindow.o
+release/moc_userwindow.o
+release/moc_widget.o

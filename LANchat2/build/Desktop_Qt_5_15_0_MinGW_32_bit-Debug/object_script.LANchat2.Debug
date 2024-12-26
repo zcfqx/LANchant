@@ -1,0 +1,16 @@
+debug/chatwindow.o
+debug/childepage.o
+debug/cilentcoremain.o
+debug/infowindow.o
+debug/loginwindow.o
+debug/main.o
+debug/res.o
+debug/userwindow.o
+debug/widget.o
+debug/qrc_images.o
+debug/moc_chatwindow.o
+debug/moc_childepage.o
+debug/moc_infowindow.o
+debug/moc_loginwindow.o
+debug/moc_userwindow.o
+debug/moc_widget.o
